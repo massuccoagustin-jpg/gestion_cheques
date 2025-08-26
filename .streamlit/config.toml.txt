@@ -1,0 +1,7 @@
+# .streamlit/config.toml
+[theme]
+primaryColor="#8B008B"  # Un color más intenso para botones y enlaces (morado oscuro)
+backgroundColor="#F8F8FF" # Fondo de la aplicación (blanco fantasma)
+secondaryBackgroundColor="#E6E6FA" # Fondo de la barra lateral y otros elementos (lavanda)
+textColor="#1E1E1E"       # Color principal del texto (casi negro)
+font="sans serif"
